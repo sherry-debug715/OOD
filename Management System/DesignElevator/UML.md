@@ -1,0 +1,2 @@
+![Detail](https://cdn.discordapp.com/attachments/900530365754638400/1278076749304823959/Screenshot_2024-08-27_at_3.40.17_PM.png?ex=66cf7d3a&is=66ce2bba&hm=ea7d6252a1466135ba0af638ab754257c22b8264f2b91c6139ec4a9de9ebeb4f&)
+![UML](https://cdn.discordapp.com/attachments/900530365754638400/1278076749787304099/Screenshot_2024-08-27_at_3.40.31_PM.png?ex=66cf7d3a&is=66ce2bba&hm=826f34f349e5a2359238dc7ea5a17a44dc2a45d1e865d805ec8fda6f2453a3f7&)
