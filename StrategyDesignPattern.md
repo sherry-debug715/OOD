@@ -1,0 +1,1 @@
+![Strategy Design Pattern](https://cdn.discordapp.com/attachments/900530365754638400/1280923632968667246/In.png?ex=66d9d898&is=66d88718&hm=032b515c10aa17ddab6d06202875d8df4d76d13d24a0117e28e110c983aa6fb6&)
